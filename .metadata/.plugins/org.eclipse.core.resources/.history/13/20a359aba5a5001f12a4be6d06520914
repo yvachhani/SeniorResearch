@@ -1,0 +1,7 @@
+package cA_Evacuation;
+
+import repast.simphony.dataLoader.ContextBuilder;
+
+public class EvacuationBuilder implements ContextBuilder<T> {
+
+}
